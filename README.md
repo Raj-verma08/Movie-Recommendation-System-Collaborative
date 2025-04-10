@@ -10,7 +10,7 @@ The **Movie Recommendation Collaborative System** is designed to help users disc
 - 📊 **Collaborative Filtering**: Utilizes user-item relationships to predict ratings.
 - 🚀 **Easy-to-Use Interface**: Simplified for end-users and developers.
 - ⚡ **Optimized Performance**: Handles large datasets efficiently.
-
+ 
 ---
 
 ## 🔧 Technologies Used
